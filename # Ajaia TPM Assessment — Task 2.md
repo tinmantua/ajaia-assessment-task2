@@ -23,4 +23,4 @@ The script:
 ## Run
 
 ```bash
-node normalize_exceptions.js exceptions.csv
+node normalized_exceptions.js exceptions.csv
